@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelCalculator", "ExcelCalculator\ExcelCalculator.csproj", "{3D820250-6A88-4D7F-BBED-FAF9BABD77B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelLibrary", "ExcelLibrary\ExcelLibrary.csproj", "{B7A4335C-A353-4B13-BE51-41CA3E94524B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D820250-6A88-4D7F-BBED-FAF9BABD77B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D820250-6A88-4D7F-BBED-FAF9BABD77B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D820250-6A88-4D7F-BBED-FAF9BABD77B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D820250-6A88-4D7F-BBED-FAF9BABD77B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A4335C-A353-4B13-BE51-41CA3E94524B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A4335C-A353-4B13-BE51-41CA3E94524B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A4335C-A353-4B13-BE51-41CA3E94524B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A4335C-A353-4B13-BE51-41CA3E94524B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59CD2F57-DA67-4704-9B80-EBF053D8FCCB}
+	EndGlobalSection
+EndGlobal
